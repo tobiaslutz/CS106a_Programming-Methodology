@@ -5,7 +5,7 @@ Solutions are provided for all assignments of the Stanford class *CS106a - Progr
 In particular, this repository contains solutions for the following assignments:
 + [Karel the Robot](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/07-assignment-1-karel.pdf)
 + [Simple Java Programs](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Simple Java Programs/13-assignment-2-simple-java.pdf)
-+ [Breakout!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Breakout/19-assignment-3-breakout.pdf)
++ [Breakout!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Breakout!/19-assignment-3-breakout.pdf)
 + [Hangman](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Hangman/27-assignment-4-hangman.pdf)
 + [Yahtzee!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Yahtzee!/35-assignment-5-yahtzee.pdf)
 + [NameSurfer](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - NameSurfer/39-assignment-6-name-surfer.pdf)
