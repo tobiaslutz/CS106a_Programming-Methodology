@@ -1,1 +1,34 @@
 # CS106a_Programming-Methodology
+## Abstract
+Solutions are provided for all assignments of the Stanford class *CS106a - Programming Methodology*. The course was taught by [Prof. Mehran Sahami](http://robotics.stanford.edu/~sahami/bio.html) in 2008 and is publicly available on [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A). Please do not copy the solutions if you are enrolled in CS106a.
+
+In particular, this repository contains solutions for the following assignments:
++ [Karel the Robot](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CollectNewspaperKarel.java)
++ [Simple Java Programs](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/StoneMasonKarel.java)
++ [Breakout!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CheckerboardKarel.java)
++ [Hangman](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/MidpointFindingKarel.java)
++ [Yahtzee!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/StoneMasonKarel.java)
++ [NameSurfer](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CheckerboardKarel.java)
++ [FacePamphlet](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/MidpointFindingKarel.java)
+
+## Setting up Eclipse
+Some of you taking the class on [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A) might end up in front of a blank screen when compiling the assignment the first time. The reason probably is that your Java Runtime Environment (JRE) is newer than version 6. However, the Stanford libraries (at least in the version of [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A)) were written at a time when JRE 1.6 was the most recent one. Therefore, you have to **additionally install JRE 1.6 on your computer** and set up your project in Eclipse as follows:
+
+### 1. Make a project
+Take the following path in Eclipse: *File* -> *New* -> *Java Project* and fill in the context menu.
+
+<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/createJavaProject.png" width="200">
+### 2. Import assignment files to the project
+Take the following path in Eclipse: *File* -> *Import* and select all files from the assignment folder.
+
+<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/importClasses.png" width="200">
+### 3. Change the compliance level of the compiler
+Take the following path in Eclipse: *Project* -> *Properties* and change the compliance level to 1.6.
+
+<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/complianceLevel.png" width="200">
+### 4. Set up run configurations
+Take the following path in Eclipse: *Run* -> *Run Configurations* -> *New launch configuration* (icon with plus sign) and make the following adjustments to the tabs *Main* (path to Stanford library), *Arguments* (which file to compile), *JRE* (which version of the JRE to be used). Then press *Run*. Your project should now compile.
+
+Main | Arguments | JRE
+--- | --- | ---
+<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationMain.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationArguments.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationJRE.png" width="200">
