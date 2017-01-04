@@ -17,18 +17,18 @@ These instructions are merely with regard to the first assignment. When compilin
 ### 1. Make a project
 Take the following path in Eclipse: *File* -> *New* -> *Java Project* and fill in the context menu.
 
-<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/createJavaProject.png" width="200">
+<img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/createJavaProject.png" width="200">
 ### 2. Import assignment files to the project
 Take the following path in Eclipse: *File* -> *Import* and select all files from the assignment folder.
 
-<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/importClasses.png" width="200">
+<img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/importClasses.png" width="200">
 ### 3. Change the compliance level of the compiler
 Take the following path in Eclipse: *Project* -> *Properties* and change the compliance level to 1.6.
 
-<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/complianceLevel.png" width="200">
+<img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/complianceLevel.png" width="200">
 ### 4. Set up run configurations
 Take the following path in Eclipse: *Run* -> *Run Configurations* -> *New launch configuration* (icon with plus sign) and make the following adjustments to the tabs *Main* (path to Stanford library), *Arguments* (which file to compile), *JRE* (which version of the JRE to be used). Then press *Run*. Your project should now compile.
 
 Main | Arguments | JRE
 --- | --- | ---
-<img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationMain.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationArguments.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Karel-the-Robot/blob/master/screenshots/runConfigurationJRE.png" width="200">
+<img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/runConfigurationMain.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/runConfigurationArguments.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/screenshots/runConfigurationJRE.png" width="200">
