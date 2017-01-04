@@ -11,8 +11,8 @@ In particular, this repository contains solutions for the following assignments:
 + [NameSurfer](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - NameSurfer/39-assignment-6-name-surfer.pdf)
 + [FacePamphlet](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - FacePamphlet/42-assignment-7-facepamphlet.pdf)
 
-## Setting up Eclipse
-Some of you taking the class on [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A) might end up in front of a blank screen when compiling the assignment the first time. The reason probably is that your Java Runtime Environment (JRE) is newer than version 6. However, the Stanford libraries (at least in the version of [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A)) were written at a time when JRE 1.6 was the most recent one. Therefore, you have to **additionally install JRE 1.6 on your computer** and set up your project in Eclipse as follows:
+## Setting up Eclipse for *Karel the Robot*
+These instructions are are merely with regard to the first assignment. When compiling *Karel the Robot* the first time, some of you taking the class on [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A) might end up in front of a blank screen.  It it very likely that your Java Runtime Environment (JRE) is newer than version 6. However, the Stanford libraries (at least in the version of [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A)) were written at a time when JRE 1.6 was the most recent one. Therefore, you have to **additionally install JRE 1.6 on your computer** and set up your project in Eclipse as follows:
 
 ### 1. Make a project
 Take the following path in Eclipse: *File* -> *New* -> *Java Project* and fill in the context menu.
