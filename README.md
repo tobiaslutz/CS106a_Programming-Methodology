@@ -4,12 +4,12 @@ Solutions are provided for all assignments of the Stanford class *CS106a - Progr
 
 In particular, this repository contains solutions for the following assignments:
 + [Karel the Robot](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Karel the Robot/07-assignment-1-karel.pdf)
-+ [Simple Java Programs](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/StoneMasonKarel.java)
-+ [Breakout!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CheckerboardKarel.java)
-+ [Hangman](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/MidpointFindingKarel.java)
-+ [Yahtzee!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/StoneMasonKarel.java)
-+ [NameSurfer](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CheckerboardKarel.java)
-+ [FacePamphlet](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/MidpointFindingKarel.java)
++ [Simple Java Programs](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Simple Java Programs/StoneMasonKarel.java)
++ [Breakout!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Breakout/CheckerboardKarel.java)
++ [Hangman](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Hangman/MidpointFindingKarel.java)
++ [Yahtzee!](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - Yahtzee!/StoneMasonKarel.java)
++ [NameSurfer](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - NameSurfer/CheckerboardKarel.java)
++ [FacePamphlet](https://github.com/tobiaslutz/CS106a_Programming-Methodology/blob/master/CS106a - FacePamphlet/MidpointFindingKarel.java)
 
 ## Setting up Eclipse
 Some of you taking the class on [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A) might end up in front of a blank screen when compiling the assignment the first time. The reason probably is that your Java Runtime Environment (JRE) is newer than version 6. However, the Stanford libraries (at least in the version of [Stanford Engineering Everywhere](https://see.stanford.edu/Course/CS106A)) were written at a time when JRE 1.6 was the most recent one. Therefore, you have to **additionally install JRE 1.6 on your computer** and set up your project in Eclipse as follows:
